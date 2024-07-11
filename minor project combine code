@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Historical Places in India</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Historical Places in India</title>>
 
     <style>
         body {
@@ -81,7 +80,6 @@
             color: white;
             text-align: center;
             padding: 1rem;
-            box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
